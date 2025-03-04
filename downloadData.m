@@ -12,7 +12,7 @@ imageDir = fullfile(dataDir,dataDir);
 if ~exist(imageDir,"dir")
 disp("Downloading data set.");
 disp("This can take several minutes to download and unzip...");
-unzip("https://github.com/mathworks/Anomaly-detection-using-Variational-Autoencoder-VAE-/archive/refs/heads/main.zip",dataDir);
+unzip("https://github.com/mathworks/Anomaly-detection-and-localization-using-CAE/archive/refs/heads/main.zip",dataDir);
 delete(fullfile(imageDir,"*.m"),fullfile(imageDir,"*.mlx"),fullfile(imageDir,"*.mat"),fullfile(imageDir,"*.md")); 
 disp("Done.");
 end
