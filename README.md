@@ -24,10 +24,8 @@ To get started, clone this repository and run "EfficientAD_and_LLM.mlx".
 - [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab)
 
 MATLAB version should be R2024b and later (Tested in R2024b)
+
 You need to have an API key in your chatGPT account.
-
-
-MATLAB version should be R2024b and later (Tested in R2024a)
 
 ## **Reference**
 [1] Batzner, Kilian, Lars Heckler, and Rebecca König. “EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies.” In 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 127–37. Waikoloa, HI, USA: IEEE, 2024. https://doi.org/10.1109/WACV57701.2024.00020.
